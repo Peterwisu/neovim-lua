@@ -15,6 +15,8 @@ vim.opt.splitright = true                 -- Force vertical spilt on tab the rig
 vim.opt.splitbelow = true                 -- Force Horizontal spilt on tab below
 vim.opt.swapfile =false                   -- Disable swapfile
 vim.opt.cursorline = false                 -- Horizontal cursor highlight
+vim.opt.relativenumber = true             -- set relative line number one the number line 
+
 
 
 
